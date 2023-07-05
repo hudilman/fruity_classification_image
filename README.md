@@ -489,7 +489,7 @@ Leave a ⭐ If you think this project is cool.
 
 Thank you for being such an amazing advisor!  You are so understanding, kind and helpful. we very lucky to have you as our advisor teams, and you give a lot of help. A thousand words cannot express our gratitude to you. we really really appreciate you! Thanks kak.
 
-### Nur Muhammad Himawan - Team Leader
+### Nur Muhammad Himawan - Team Leade
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mawann_/)&nbsp;&nbsp;
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/nurmuhimawann/)&nbsp;&nbsp;
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nurmuhimawann/)&nbsp;&nbsp;
