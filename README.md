@@ -5,7 +5,7 @@
  <img width=280px src="readme-assets/transparent-logo.png/" alt="Fruity logo"></a>
 </p>
 
-<h2 align="center">Fruity App by C22-098</h2>
+<h2 align="center">Fruity App by C22-098 </h2>
 
 <div align="center">
 
